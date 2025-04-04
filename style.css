@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+table{
+    width: 500PX;
+    border: none;
+    
+
+}
+tr:nth-child(even){
+    background-color: rgb(172, 172, 252);
+}
